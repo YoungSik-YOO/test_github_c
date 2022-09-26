@@ -10,7 +10,7 @@ html {
     display: flex;
     flex-direction: row;
     margin: 10px;
-    background-color: #333333;
+    background-color: #fd0606;
 }
 
 .tetris-panel-container {
@@ -19,7 +19,7 @@ html {
     padding-right: 10px;
     flex-direction: column;
     color: white;
-    background-color: #333333;
+    background-color: #f50c0c;
 }
 
 .tetris-panel-container-padding {
@@ -40,5 +40,5 @@ html {
     padding-top: 10px;
     padding-bottom: 10px;
     text-align: center;
-    background: #444444;
+    background: #f50707;
 }
